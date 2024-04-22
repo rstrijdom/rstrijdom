@@ -15,6 +15,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 |-----------------------------------------------|----------------------------|
 | File permissions in Linux | <a href="https://docs.google.com/document/d/1apCoEis74bmTT0bHOTg3zdwpF5cm6t-UlJSVFE_EIFw/edit?usp=sharing">Summary Document (Google Docs)</a>|
 | Applying filters to SQL queries | <a href="https://docs.google.com/document/d/1B5OTcGPr8fOeOlHhlFRA3tAQNI8M9qHdznXsWtcIvyE/edit?usp=sharing">Summary Document (Google Docs)</a>|
+| Azure: Create VM and configure Web Server | <a href="https://github.com/rstrijdom/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server/tree/main">Summary Document </a>|
 
 ## Tools
 
@@ -42,4 +43,4 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 </div>
 
 ## Projects
-- Azure: Create a Virtual Machine and Deploy a Web Server
+- <a href="https://github.com/rstrijdom/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server/tree/main">Azure: Create a Virtual Machine and Deploy a Web Server</a>
