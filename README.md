@@ -35,6 +35,13 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
    <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
+### Project Management
+<div>
+    <img src="https://img.shields.io/badge/Jira-429ef5" />
+    <img src="https://img.shields.io/badge/Asana-f54263" />
+    <img src="https://img.shields.io/badge/Trello-8A2BE2" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
