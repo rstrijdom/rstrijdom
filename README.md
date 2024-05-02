@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I am an experienced educator with a passion for tech and using it to make our lives better.
+As an experienced coach and teacher with strong Agile Project management and IT skills, I am passionate about technology and using it to improve our lives. I am adept at thinking creatively and improvising solutions, with a genuine passion for people development, always eager to learn and help others achieve their potential.
 
 ## Objective
 
