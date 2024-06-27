@@ -7,7 +7,7 @@ As an experienced coach and teacher with strong Agile Project management and IT 
 
 ## Objective
 
-My journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey has led me to develop a passion for cloud security, and I am now eager to transition into this field, specifically aiming to use my skills as a cloud security engineer.
 
 ## Skills
 
