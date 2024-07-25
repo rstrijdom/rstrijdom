@@ -51,4 +51,4 @@ My journey has led me to develop a passion for cloud security, and I am now eage
 
 ## Projects
 - <a href="https://github.com/rstrijdom/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server/tree/main">Azure: Create a Virtual Machine and Deploy a Web Server</a>
-- <a href='https://github.com/rstrijdom/Azure-Create-a-VM-and-install-an-app-using-the-CLI-in-Linux/blob/main">Azure: Create a Virtual Machine and install Jenkins using the CLI</a>
+- <a href="https://github.com/rstrijdom/Azure-Create-a-VM-and-install-an-app-using-the-CLI-in-Linux/tree/main">Azure: Create a Virtual Machine and install Jenkins using the CLI</a>
