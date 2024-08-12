@@ -16,6 +16,7 @@ My journey has led me to develop a passion for cloud security, and I am now eage
 | File permissions in Linux | <a href="https://docs.google.com/document/d/1apCoEis74bmTT0bHOTg3zdwpF5cm6t-UlJSVFE_EIFw/edit?usp=sharing">Summary Document (Google Docs)</a>|
 | Applying filters to SQL queries | <a href="https://docs.google.com/document/d/1B5OTcGPr8fOeOlHhlFRA3tAQNI8M9qHdznXsWtcIvyE/edit?usp=sharing">Summary Document (Google Docs)</a>|
 | Azure: Create VM and configure Web Server | <a href="https://github.com/rstrijdom/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server/tree/main">Summary Document </a>|
+| Azure: Using the CLI to create VM's and install apps | <a href="https://github.com/rstrijdom/Azure-Create-a-VM-and-install-an-app-using-the-CLI-in-Linux/tree/main">Summary Document</a>|
 
 ## Tools
 
@@ -44,11 +45,12 @@ My journey has led me to develop a passion for cloud security, and I am now eage
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/-CompTIA_Security+-DE0A26?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certified_Scrum_Master-6DB33F?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Project_Management_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
-## Projects
+## Projects (see also Skills section above)
 - <a href="https://github.com/rstrijdom/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server/tree/main">Azure: Create a Virtual Machine and Deploy a Web Server</a>
 - <a href="https://github.com/rstrijdom/Azure-Create-a-VM-and-install-an-app-using-the-CLI-in-Linux/tree/main">Azure: Create a Virtual Machine and install Jenkins using the CLI</a>
