@@ -50,7 +50,7 @@ My journey has led me to the exciting world of cloud security, specifically usin
 ## Certifications
 <div>
 • CompTia Security+<br>
-• Microsoft Certified: Azure AI Fundamentals (AI-900)
+• Microsoft Certified: Azure AI Fundamentals (AI-900)<br>
 • Google Cybersecurity Certificate<br>
 • Certified Scrum Master (Scrum Alliance)<br>
 • Google Project Management Certificate
